@@ -2,7 +2,7 @@
 - 👀 I’m interested in VLSI 
 - 🌱 I’m currently learning PCIe
 - 💞️ I’m looking to collaborate on vlsi industry
-- 📫 How to reach me linkdin
+- 📫 How to reach me, by searching k vinay in linkdin
 - 😄 Pronouns: victory
 - ⚡ Fun fact: life is very beautiful but that beauty is absent in life 
 
